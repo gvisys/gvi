@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "gvi-clone",
-    "currentPage": "blog.html",
+    "name": "gvi",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -45,8 +45,8 @@
       }
     ],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/avatar-v2-185x185-128x128.png",
-    "mbrsiteDomain": "oyogaqgvwo",
+    "favicon": "@PROJECT_PATH@/assets/images/avatar-v2-celan-400x400px-128x128.png",
+    "mbrsiteDomain": "k9b7kwc6zs",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -56,7 +56,7 @@
     "uniqCompNum": 97,
     "versionPublish": "5.3.5",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
