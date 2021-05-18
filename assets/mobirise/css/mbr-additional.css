@@ -6199,15 +6199,15 @@ a {
   color: #ffffff;
 }
 .cid-sxoHQEghZz H1 {
-  color: #ffffff;
+  color: #61abac;
 }
 .cid-sxoHQEghZz .card-wrapper .card-title,
 .cid-sxoHQEghZz .card-box {
-  color: #ffffff;
+  color: #61abac;
 }
 .cid-sxoHQEghZz .mbr-text,
 .cid-sxoHQEghZz .mbr-section-btn {
-  color: #3c495b;
+  color: #61abac;
 }
 .cid-sxoEcQ5cGX {
   padding-top: 0rem;
@@ -6243,6 +6243,51 @@ a {
 .cid-sxoEcQ5cGX .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-sxoEdhosBT {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sxoEdhosBT .content-wrapper {
+  background: #fafafa;
+}
+@media (max-width: 991px) {
+  .cid-sxoEdhosBT .content-wrapper .row {
+    flex-direction: column-reverse;
+  }
+  .cid-sxoEdhosBT .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sxoEdhosBT .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-sxoEdhosBT .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sxoEdhosBT .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-sxoEdhosBT .content-wrapper .text-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-sxoEdhosBT .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-sxoEdhosBT .card-title {
+  color: #61abac;
+}
+.cid-sxoEdhosBT .mbr-text,
+.cid-sxoEdhosBT .mbr-section-btn {
+  color: #3c495b;
 }
 .cid-sxivsjzqPq {
   z-index: 1000;
@@ -6658,42 +6703,4 @@ a {
   .cid-sxiKrtGxcf div > *:last-child {
     margin-top: 0 !important;
   }
-}
-.cid-sxoEdhosBT {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sxoEdhosBT .content-wrapper {
-  background: #fafafa;
-}
-@media (max-width: 991px) {
-  .cid-sxoEdhosBT .content-wrapper .row {
-    flex-direction: column-reverse;
-  }
-  .cid-sxoEdhosBT .content-wrapper .image-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sxoEdhosBT .content-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-sxoEdhosBT .content-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sxoEdhosBT .content-wrapper {
-    padding: 5rem 3rem;
-  }
-  .cid-sxoEdhosBT .content-wrapper .text-wrapper {
-    padding-right: 2rem;
-  }
-}
-.cid-sxoEdhosBT .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
 }
